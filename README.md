@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Shadowinner, the best tool to improve employees collaboration<br>👯 I’m looking to collaborate on Flutter projects or Node JS.<br>🌱 I’m currently learning about Restful API<br>💬 Ask me about mobile application tips on Flutter<br>⚡ Fun fact, I am also a DJ
+🔭 I’m currently working on Shadowinner, the best tool to improve employees collaboration inside companies<br>👯 I’m looking to collaborate on Flutter projects or Node JS.<br>🌱 I’m currently learning about Restful API<br>💬 Ask me about mobile application tips on Flutter<br>⚡ Fun fact, I am also a DJ
 
 
 ## 🌐 Socials:
